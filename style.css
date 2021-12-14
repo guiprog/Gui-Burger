@@ -1,4 +1,4 @@
-#logo{background-image: url("/logo3.png");
+#logo{background-image: url("images/logo3.png");
    max-width: 115px;
    min-height: 107px;
    background-repeat: no-repeat;
@@ -72,7 +72,7 @@ color: lightyellow;
 }
 
 
-body{background-image: url(/back.png);
+body{background-image: url(images/back.png);
 background-repeat: no-repeat;
 font-family: Arial, Helvetica, sans-serif;
 
